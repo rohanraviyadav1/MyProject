@@ -11,5 +11,6 @@ public class AllUpperCaseToLast {
     public static void main(String[] args) {
         AllUpperCaseToLast ob=new AllUpperCaseToLast();
         System.out.println(ob.upperCaseToLast("This is Example Of UPPER to Lower"));
+        System.out.println(ob.upperCaseToLast("TEST Commit"));
     }
 }
