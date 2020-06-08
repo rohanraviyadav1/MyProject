@@ -1,7 +1,4 @@
 package example.string;
-
-import com.sun.istack.internal.NotNull;
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
