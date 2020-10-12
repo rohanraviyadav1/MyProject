@@ -8,7 +8,9 @@ public class ListOfStringToCommaSeparated {
     String commaSeparatedString;
 
     String commaSeparated(List<String> s) {
-
+    /*
+    Returns a new String composed of copies of the CharSequence elements joined together with a copy of the specified delimiter
+     */
         commaSeparatedString = commaSeparatedString.join(",", s);
         return commaSeparatedString;
     }

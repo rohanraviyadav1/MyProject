@@ -3,7 +3,7 @@ package example.string;
 public class StringRotationExample1 {
     public static void main(String[] args) {
         String s1="ABCD";
-        String s2="CDBA";
+        String s2="CDAB";
         StringRotationExample1 ob=new StringRotationExample1();
         System.out.println(ob.isRoatation(s1,s2));
     }
